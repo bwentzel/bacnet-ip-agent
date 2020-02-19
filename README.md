@@ -1,4 +1,4 @@
-# backnet-ip-agent
+# bacnet-ip-agent
 ![BuildStatus](https://travis-ci.com/entraeiendom/bacnet-ip-agent.svg?branch=master)
 
 Listen to UDP packages, and send UDP packages.
